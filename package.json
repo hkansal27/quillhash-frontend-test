@@ -2,6 +2,14 @@
   "name": "quillhash-frontend-test",
   "version": "0.1.0",
   "private": true,
+  "author": "Himanshu Kansal",
+  "keywords": [
+    "ReactJs",
+    "Authentication",
+    "Unplash",
+    "APIs",
+    "Favourite Images"
+  ],
   "dependencies": {
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
